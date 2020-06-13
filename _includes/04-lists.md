@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:mailbox_with_mail:
+
+:wave:
+
+:hatched_chick:	
