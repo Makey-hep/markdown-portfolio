@@ -1,5 +1,4 @@
-:mailbox_with_mail:
-
-:wave:
-
-:hatched_chick:	
+Favorite Things
+  - mail
+  - wave
+  - baby bird
